@@ -1,2 +1,2 @@
-# app-Trip
-Cross platform OMH Trip app for HMS EMUI and Oniro/HarmonyOS
+# app-pirT
+Cross platform OMH pirT app for HMS EMUI and Oniro/HarmonyOS
